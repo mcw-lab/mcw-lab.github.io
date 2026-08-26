@@ -1,4 +1,11 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "academic" # the name of your site, e.g. ACME Corp.
-description: "a Jekyll theme for academia"
+title: Walker Lab
+description: >-
+  Enzyme selectivity for engineering biosynthesis.
+  Department of Chemistry and Chemical Biology, University of New Mexico.
+url: "https://mcw-lab.github.io"
+baseurl: ""
+
+author: Mark C. Walker
+
+markdown: kramdown
+permalink: /:title/
